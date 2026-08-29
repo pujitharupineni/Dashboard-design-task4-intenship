@@ -1,4 +1,4 @@
-# SQL Data Analysis Project
+# SQL Data Analysis Task
 
 ## 📌 Project Overview
 
